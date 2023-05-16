@@ -44,9 +44,12 @@ A guide to using Notion and Zotero for a literature review. *Adapted from https:
   <img src="https://github.com/IRSS-UBC/NoteroLiteratureReview/blob/main/images/share_integration.png">
 </p>
 
-**_Copy and Paste Database ID Somewhere_**
+**_Step Three_**: Copy and Paste Database ID Somewhere
   * The database ID is a string of 32 characters in the database URL that is between the slash following the your workspace name and the question mark (?)
 
 <p align="center">
   <img src="https://github.com/IRSS-UBC/NoteroLiteratureReview/blob/main/images/database_id.png">
 </p>
+
+### Install/Configure Notero Plugin
+**_Step One_**: Open Zotero Add-ons Manager - **Tools &#8594; Add-ons**
