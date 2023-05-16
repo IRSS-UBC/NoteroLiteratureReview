@@ -1,5 +1,5 @@
 # Notero Literature Review
-A guide to using Notion and Zotero for a literature review. *Adapted from https://www.nature.com/articles/d41586-022-01878-7*
+A guide to using Notion and Zotero for a literature review.
 
 Follow the [Installation Guide](https://github.com/IRSS-UBC/NoteroLiteratureReview/blob/main/README.md#installation-guide) to set up!
 
