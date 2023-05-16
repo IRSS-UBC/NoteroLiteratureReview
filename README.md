@@ -11,7 +11,9 @@ A guide to using Notion and Zotero for a literature review. *Adapted from https:
 
 **Step Four**: Download the .xpi [file](https://github.com/dvanoni/notero/releases/tag/v0.4.6)
 
-![xpi image](https://github.com/IRSS-UBC/NoteroLiteratureReview/blob/main/images/xpi_img.png)
+<p align="center">
+  <img src="https://github.com/IRSS-UBC/NoteroLiteratureReview/blob/main/images/xpi_img.png" width=50% height=50%>
+</p>
 
 ### Configure Notion
 **Step One** Create an [Internal Integration](https://www.notion.com/my-integrations) in Notion.
@@ -27,5 +29,5 @@ Name it something you will remember (i.e. Zotero) and make sure that the Associa
 Show the generated secret and copy and paste it somewhere to use later
 
 <p align="center">
-  ![secret](https://github.com/IRSS-UBC/NoteroLiteratureReview/blob/main/images/copy_secret.png)
+  <img src="https://github.com/IRSS-UBC/NoteroLiteratureReview/blob/main/images/copy_secret.png" width=50% height=50%>
 </p>
