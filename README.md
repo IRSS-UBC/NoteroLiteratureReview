@@ -11,7 +11,6 @@ Follow the [Installation Guide](https://github.com/IRSS-UBC/NoteroLiteratureRevi
   4. *The Fields* - These are the fields that hold relevant information to the literature. *Some of these are required for Notero to work so please do not delete any (you can hide tabs).*
   5. *The Items* - These will eventuall be filled in with relevant information for each item added to the database. Some of these fields will be automatically populated when you add items from Zotero.
 
-
 <p align="center">
   <img src="https://github.com/IRSS-UBC/NoteroLiteratureReview/blob/main/images/literature_template.png">
 </p>
