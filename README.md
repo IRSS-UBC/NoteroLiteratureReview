@@ -9,7 +9,7 @@ A guide to using Notion and Zotero for a literature review. *Adapted from https:
 
 **_Step Three_**: Duplicate [Notion Template](https://ordinary-medicine-af6.notion.site/b51ba13dcb51435cb0fc3d6d69592b7b?v=d4483d14e59f46459f7948f067aeda70). Feel free to rename it to something else once you have duplicated it.
 
-**_Step Four_**: Download the .xpi [File](https://github.com/dvanoni/notero/releases/tag/v0.4.6)
+**_Step Four_**: Download the `.xpi` [File](https://github.com/dvanoni/notero/releases/tag/v0.4.6)
 
 <p align="center">
   <img src="https://github.com/IRSS-UBC/NoteroLiteratureReview/blob/main/images/xpi_img.png">
@@ -53,3 +53,23 @@ A guide to using Notion and Zotero for a literature review. *Adapted from https:
 
 ### Install/Configure Notero Plugin
 **_Step One_**: Open Zotero Add-ons Manager - **Tools &#8594; Add-ons**
+
+<p align="center">
+  <img src="https://github.com/IRSS-UBC/NoteroLiteratureReview/blob/main/images/tools_addons.png">
+</p>
+
+**_Step Two_**: Install the `.xpi` File
+  * Drag and drop file into Add-ons Manager window *or*
+  * Use the **Install Add-on From File...** from the gear menu at the top-right corner of the window
+
+<p align="center">
+  <img src="https://github.com/IRSS-UBC/NoteroLiteratureReview/blob/main/images/install_plugin.png">
+</p>
+
+**_Step Three_**: Restart Zotero
+
+**_Step Four_**: Open Notero Preferences - **Tools &#8594; Notero Preferences...** and Enter the Required Preferences
+
+<p align="center">
+  <img src="https://github.com/IRSS-UBC/NoteroLiteratureReview/blob/main/images/notero_preferences.png">
+</p>
