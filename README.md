@@ -41,7 +41,7 @@ A guide to using Notion and Zotero for a literature review. *Adapted from https:
   * Find and select the correct integration (i.e. what ever you named it) using the **Search for connections...** menu
 
 <p align="center">
-  <img src="https://github.com/IRSS-UBC/NoteroLiteratureReview/blob/main/images/share_integration.png" width=75% height=75%>
+  <img src="https://github.com/IRSS-UBC/NoteroLiteratureReview/blob/main/images/share_integration.png">
 </p>
 
 **_Copy and Paste Database ID Somewhere_**
