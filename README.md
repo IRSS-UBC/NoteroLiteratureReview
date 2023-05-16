@@ -3,20 +3,20 @@ A guide to using Notion and Zotero for a literature review. *Adapted from https:
 
 ## Installation Guide
 ### Set Up
-*Step One*: Install [Zotero](https://www.zotero.org/download/) if you have not done so already
+**_Step One_**: Install [Zotero](https://www.zotero.org/download/) if you have not done so already
 
-*Step Two*: Create a [Notion](https://www.notion.so/) Account
+**_Step Two_**: Create a [Notion](https://www.notion.so/) Account
 
-*Step Three*: Duplicate [Notion Template](https://ordinary-medicine-af6.notion.site/b51ba13dcb51435cb0fc3d6d69592b7b?v=d4483d14e59f46459f7948f067aeda70). Feel free to rename it to something else once you have duplicated it.
+**_Step Three_**: Duplicate [Notion Template](https://ordinary-medicine-af6.notion.site/b51ba13dcb51435cb0fc3d6d69592b7b?v=d4483d14e59f46459f7948f067aeda70). Feel free to rename it to something else once you have duplicated it.
 
-*Step Four*: Download the .xpi [file](https://github.com/dvanoni/notero/releases/tag/v0.4.6)
+**_Step Four_**: Download the .xpi [file](https://github.com/dvanoni/notero/releases/tag/v0.4.6)
 
 <p align="center">
   <img src="https://github.com/IRSS-UBC/NoteroLiteratureReview/blob/main/images/xpi_img.png">
 </p>
 
 ### Configure Notion
-*Step One*: Create an [Internal Integration](https://www.notion.com/my-integrations) in Notion.
+**_Step One_**: Create an [Internal Integration](https://www.notion.com/my-integrations) in Notion.
 
 <p align="center">
   <img src="https://github.com/IRSS-UBC/NoteroLiteratureReview/blob/main/images/notion_integrations.png" width=50% height=50%>
@@ -34,7 +34,7 @@ Show the generated secret and copy and paste it somewhere to use later
   <img src="https://github.com/IRSS-UBC/NoteroLiteratureReview/blob/main/images/copy_secret.png" width=50% height=50%>
 </p>
 
-*Step Two*: Share the Notion template with the integration.
+**_Step Two_**: Share the Notion template with the integration.
   * Go to the Literature Review Template that you duplicated to your Notion workspace
   * Click on the **...** at the top right corner of the page
   * Click **Add connections**
