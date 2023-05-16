@@ -4,7 +4,7 @@ A guide to using Notion and Zotero for a literature review. *Adapted from https:
 Follow the [Installation Guide](https://github.com/IRSS-UBC/NoteroLiteratureReview/blob/main/README.md#installation-guide) to set up!
 
 ## Notero Literature Review Template
-**_There are 5 Key Areas Within The Template_**
+### 5 Key Areas of Template
   1. *The Cover Image* - You can change/reposition the cover by hovering over the image with your cursor and selecting the appropriate option.
   2. *The Database Title* - Feel free to change the title to whatever you want.
   3. *The Sheet Tabs* - All of these tabs are related to the **All Papers** tab just filted based on specific values which you can change as well.
