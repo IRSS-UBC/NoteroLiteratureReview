@@ -3,6 +3,19 @@ A guide to using Notion and Zotero for a literature review. *Adapted from https:
 
 Follow the [Installation Guide](https://github.com/IRSS-UBC/NoteroLiteratureReview/blob/main/README.md#installation-guide) to set up!
 
+## Notero Literature Review Template
+**_There are 5 Key Areas Within The Template_**
+  1. *The Cover Image* - You can change/reposition the cover by hovering over the image with your cursor and selecting the appropriate option.
+  2. *The Database Title* - Feel free to change the title to whatever you want.
+  3. *The Sheet Tabs* - All of these tabs are related to the **All Papers** tab just filted based on specific values which you can change as well.
+  4. *The Fields* - These are the fields that hold relevant information to the literature. *Some of these are required for Notero to work so please do not delete any (you can hide tabs).*
+  5. *The Items* - These will eventuall be filled in with relevant information for each item added to the database. Some of these fields will be automatically populated when you add items from Zotero.
+
+
+<p align="center">
+  <img src="https://github.com/IRSS-UBC/NoteroLiteratureReview/blob/main/images/literature_template.png">
+</p>
+
 ## Installation Guide
 ### Set Up
 **_Step One_**: Install [Zotero](https://www.zotero.org/download/) (if you have not done so already)
