@@ -20,7 +20,7 @@ A guide to using Notion and Zotero for a literature review. *Adapted from https:
 
 Name it something you will remember (i.e. Zotero) and make sure that the Associated Workspace is correct.
 
-![create integrations](https://github.com/IRSS-UBC/NoteroLiteratureReview/blob/main/images/create_integration.png
+<img src="(https://github.com/IRSS-UBC/NoteroLiteratureReview/blob/main/images/create_integration.png" width=50% height=50%>
 
 Show the generated secret and copy and paste it somewhere to use later
 
