@@ -12,7 +12,7 @@ A guide to using Notion and Zotero for a literature review. *Adapted from https:
 **Step Four**: Download the .xpi [file](https://github.com/dvanoni/notero/releases/tag/v0.4.6)
 
 <p align="center">
-  <img src="https://github.com/IRSS-UBC/NoteroLiteratureReview/blob/main/images/xpi_img.png" width=50% height=50%>
+  <img src="https://github.com/IRSS-UBC/NoteroLiteratureReview/blob/main/images/xpi_img.png">
 </p>
 
 ### Configure Notion
