@@ -9,7 +9,7 @@ Follow the [Installation Guide](https://github.com/IRSS-UBC/NoteroLiteratureRevi
   2. *The Database Title* - Feel free to change the title to whatever you want.
   3. *The Sheet Tabs* - All of these tabs are related to the **All Papers** tab just filted based on specific values which you can change as well.
   4. *The Fields* - These are the fields that hold relevant information to the literature. *Some of these are required for Notero to work so please do not delete any (you can hide tabs).*
-  5. *The Items* - These will eventuall be filled in with relevant information for each item added to the database. Some of these fields will be automatically populated when you add items from Zotero.
+  5. *The Items* - These will eventually be filled in with relevant information for each item added to the database. *Some of these fields will be automatically populated when you add items from Zotero.*
 
 <p align="center">
   <img src="https://github.com/IRSS-UBC/NoteroLiteratureReview/blob/main/images/literature_template.png">
