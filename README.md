@@ -16,11 +16,11 @@ A guide to using Notion and Zotero for a literature review. *Adapted from https:
 ### Configure Notion
 **Step One** Create an [Internal Integration](https://www.notion.com/my-integrations) in Notion.
 
-![integrations](https://github.com/IRSS-UBC/NoteroLiteratureReview/blob/main/images/notion_integrations.png)
+![integrations](https://github.com/IRSS-UBC/NoteroLiteratureReview/blob/main/images/notion_integrations.png){:height="100px" width="100px"}
 
 Name it something you will remember (i.e. Zotero) and make sure that the Associated Workspace is correct.
 
-![create integrations](https://github.com/IRSS-UBC/NoteroLiteratureReview/blob/main/images/create_integration.png)
+![create integrations](https://github.com/IRSS-UBC/NoteroLiteratureReview/blob/main/images/create_integration.png){:height="100px" width="100px"}
 
 Show the generated secret and copy and paste it somewhere to use later
 
