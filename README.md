@@ -48,10 +48,22 @@ Once you have an item in the database you are able to open up the item to see al
   <img src="https://github.com/IRSS-UBC/NoteroLiteratureReview/blob/main/images/open_item.png">
 </p>
 
-In the panel that opens scroll to the bottom of the page and click **Literature Review**. This will open up a template that you can use to help guide your review.
+In the panel that opens scroll to the bottom of the page and click **Literature Review**.
 
 <p align="center">
   <img src="https://github.com/IRSS-UBC/NoteroLiteratureReview/blob/main/images/add_page.png">
+</p>
+
+This will open up a template that you can use to help guide your review. Feel free to add anything you want or think is relevant as each time that you use this template for a new item it will start a fresh page.
+
+<p align="center">
+  <img src="https://github.com/IRSS-UBC/NoteroLiteratureReview/blob/main/images/review_template.png">
+</p>
+
+You can also edit the template to make it more suitable for your preferences by clicking the **...** at the end of the **Literature Review** button.
+
+<p align="center">
+  <img src="https://github.com/IRSS-UBC/NoteroLiteratureReview/blob/main/images/edit_template.png">
 </p>
 
 ## Installation Guide
@@ -60,7 +72,7 @@ In the panel that opens scroll to the bottom of the page and click **Literature 
 
 **_Step Two_**: Create a [Notion](https://www.notion.so/) Account
 
-**_Step Three_**: Duplicate [Notion Template](https://ordinary-medicine-af6.notion.site/b51ba13dcb51435cb0fc3d6d69592b7b?v=d4483d14e59f46459f7948f067aeda70). Feel free to rename it to something else once you have duplicated it.
+**_Step Three_**: Duplicate [Notion Template](https://ordinary-medicine-af6.notion.site/b51ba13dcb51435cb0fc3d6d69592b7b?v=d4483d14e59f46459f7948f067aeda70) (Feel free to rename it to something else once you have duplicated it)
 
 **_Step Four_**: Download the `.xpi` [File](https://github.com/dvanoni/notero/releases/tag/v0.4.6)
 
