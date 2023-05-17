@@ -16,7 +16,7 @@ Follow the [Installation Guide](https://github.com/IRSS-UBC/NoteroLiteratureRevi
 </p>
 
 ### Template Fields
-There are a number of field that are auto-populated from Zotero (i.e. name, title), others need to manually entered. Below is a description of each of the fields:
+There are a number of field that are auto-populated from Zotero (i.e. name, title), others need to manually entered. Feel free to add any new fields, but **DO NOT** change or remove any of the auto-populated fields. Below is a description of each of the fields:
 | Field | Description | Type | Auto-Populated | 
 | ----- | ----------- | ---- | -------------- |
 | Name | In-text Citation | Text | ✔️ |
