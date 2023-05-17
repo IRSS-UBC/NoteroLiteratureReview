@@ -41,6 +41,19 @@ There are a number of field that are auto-populated from Zotero (i.e. name, titl
 | Last Edited | Date of Last Edits Made to the Item | Date | ✔️ |
 | Reading Priority | What is the Reading Priority | Select | ❌ |
 
+### Literature Review Template
+Once you have an item in the database you are able to open up the item to see all of the fields as well as any pages you have attached to them. To do this hover over the item of interest and click open.
+
+<p align="center">
+  <img src="https://github.com/IRSS-UBC/NoteroLiteratureReview/blob/main/images/open_item.png">
+</p>
+
+In the panel that opens scroll to the bottom of the page and click **Literature Review**. This will open up a template that you can use to help guide your review.
+
+<p align="center">
+  <img src="https://github.com/IRSS-UBC/NoteroLiteratureReview/blob/main/images/add_page.png">
+</p>
+
 ## Installation Guide
 ### Set Up
 **_Step One_**: Install [Zotero](https://www.zotero.org/download/) (if you have not done so already)
