@@ -41,6 +41,13 @@ There are a number of field that are auto-populated from Zotero (i.e. name, titl
 | Last Edited | Date of Last Edits Made to the Item | Date | ✔️ |
 | Reading Priority | What is the Reading Priority | Select | ❌ |
 
+### Add Items to Database
+After you have finished downloading and installing steps found in the [Installation Guide](https://github.com/IRSS-UBC/NoteroLiteratureReview/blob/main/README.md#installation-guide) you can now add items from Zotero to Notion. Recent updates to this have prevented Zotero from automatically adding items to Notion (if you figure out a fix let me know!). You can still manually add items by right-clicking on an item in Zotero and clicking **Sync to Notion**
+
+<p align="center">
+  <img src="https://github.com/IRSS-UBC/NoteroLiteratureReview/blob/main/images/add_item.png">
+</p>
+
 ### Literature Review Template
 Once you have an item in the database you are able to open up the item to see all of the fields as well as any pages you have attached to them. To do this hover over the item of interest and click open.
 
