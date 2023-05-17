@@ -15,6 +15,32 @@ Follow the [Installation Guide](https://github.com/IRSS-UBC/NoteroLiteratureRevi
   <img src="https://github.com/IRSS-UBC/NoteroLiteratureReview/blob/main/images/literature_template.png">
 </p>
 
+### Template Fields
+There are a number of field that are auto-populated from Zotero (i.e. name, title), others need to manually entered. Below is a description of each of the fields:
+| Field | Description | Type | Auto-Populated | 
+| ----- | ----------- | ---- | -------------- |
+| Name | In-text Citation | Text | ✔️ |
+| Title | Title of the Literature | Test | ✔️ |
+| Status | Current Status of the Review | Select | ❌|
+| Type | Type of Literature | Select | ❌ |
+| Interesting | Was the Liturature Interesting | Select | ❌ |
+| Relevance | Was the Literature Relevant | Select | ❌ |
+| Tags | Keywords Related to the Literature | Multi-Select | ✔️ |
+| Key Notes | A Place for Quick Glance Notes | Text | ❌ |
+| Printed | Was the Literature Printed | Select | ❌ |
+| Relevant Chapter | What Chapter of Thesis is this Literature Relevant to | Multi-Select | ❌ |
+| Zotero Url | URL to the Literature on Your Zotero | Link | ✔️ |
+| URL | URL to the Website (if literature is only available online) | Link | ✔️ |
+| Item Type | What Zotero Type is the Literature | Select | ❌ |
+| Year | Year of Publication | Numeric | ✔️ |
+| DOI | DOI of Literature | Link | ✔️ |
+| Abstract | Abstract from the Paper | Text | ✔️ |
+| Authors | List of Authors of the Publication | Text | ✔️ |
+| In-Text Citation | In-Text Citation | Text | ✔️ |
+| Full Citation | Full Citation for Reference List | Text | ✔️ |
+| Last Edited | Date of Last Edits Made to the Item | Date | ✔️ |
+| Reading Priority | What is the Reading Priority | Select | ❌ |
+
 ## Installation Guide
 ### Set Up
 **_Step One_**: Install [Zotero](https://www.zotero.org/download/) (if you have not done so already)
