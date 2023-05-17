@@ -81,7 +81,7 @@ You can also edit the template to make it more suitable for your preferences by 
 
 **_Step Three_**: Duplicate [Notion Template](https://ordinary-medicine-af6.notion.site/b51ba13dcb51435cb0fc3d6d69592b7b?v=d4483d14e59f46459f7948f067aeda70) (Feel free to rename it to something else once you have duplicated it)
 
-**_Step Four_**: Download the `.xpi` [File](https://github.com/dvanoni/notero/releases/tag/v0.4.6)
+**_Step Four_**: [Download](https://github.com/dvanoni/notero/releases/tag/v0.4.6) the `.xpi` File
 
 <p align="center">
   <img src="https://github.com/IRSS-UBC/NoteroLiteratureReview/blob/main/images/xpi_img.png">
