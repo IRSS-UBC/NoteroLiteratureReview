@@ -84,13 +84,13 @@ You can also edit the template to make it more suitable for your preferences by 
 **_Step One_**: Create an [Internal Integration](https://www.notion.com/my-integrations) in Notion.
 
 <p align="center">
-  <img src="https://github.com/IRSS-UBC/NoteroLiteratureReview/blob/main/images/notion_integrations.png" width=50% height=50%>
+  <img src="https://github.com/IRSS-UBC/NoteroLiteratureReview/blob/main/images/notion_integrations.png" width=75% height=75%>
 </p>
 
   * Name it something you will remember (i.e. Zotero) and make sure that the Associated Workspace is correct.
 
 <p align="center">
-  <img src="https://github.com/IRSS-UBC/NoteroLiteratureReview/blob/main/images/create_integration.png" width=50% height=50%>
+  <img src="https://github.com/IRSS-UBC/NoteroLiteratureReview/blob/main/images/create_integration.png" width=75% height=75%>
 </p>
 
   * Show the generated secret and copy and paste it somewhere to use later
